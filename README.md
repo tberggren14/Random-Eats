@@ -9,4 +9,4 @@ Get a randomly generated restaurant or fast food place near you. Random-Eats als
 If you don't like the choice just hit the refresh and get another one. If you do like the choice Random-Eats will open directions for you to get there. 
 Feel like cooking at home? Hit random home meal and get a random meal to make with the how to video.
 
-Currently in beta testing.
+Currently available on the AppStore.
