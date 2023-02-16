@@ -10,7 +10,6 @@ import CoreLocation
 import Combine
 import UIKit
 
-let apiKey = "qOT3o0nW3jTmfdHSa4A2ahGHgVH8k0dHdickXWU_9O2gA1hjTeKh3m23Uh1Z0M1tmY4WjfEWNkW6U_gPFWHJmar04hIaGGrvoiMSjlLLXt7d80JoBCbYqaHg0qYDY3Yx"
 
 extension MainView{
     
